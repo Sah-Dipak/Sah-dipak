@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Dipak Kumar - Software Engineer" width="100%" height=500px">
+  <img src="./banner.png" alt="Dipak Kumar - Software Engineer" width="100%">
 </div>
  <a href="https://sah-dipak.github.io/Portfolio/">Portfolio</a>
 <!-- <p align="center">
