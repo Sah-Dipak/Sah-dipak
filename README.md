@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dipak%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20passionate%20Software%20Engineer%20from%20India&descSize=18&descAlignY=55&textBg=false"/>
+<div align="center">
+  <img src="./github-banner.png" alt="Dipak Kumar - Software Engineer" width="100%" height=500px">
+</div>
  <a href="https://sah-dipak.github.io/Portfolio/">Portfolio</a>
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sah-Dipak">
